@@ -1,0 +1,17 @@
+﻿species;precision;recall;f1-score;support
+blaireaux;0.78;0.88;0.83;81
+cerf;0.67;0.21;0.32;19
+chamois;0.86;0.81;0.83;184
+chat;0.89;0.78;0.83;69
+chevreuil;0.67;0.81;0.74;74
+chien;0.78;0.84;0.81;500
+humain;0.99;0.79;0.88;500
+lievre;0.32;0.52;0.40;31
+lynx;0.87;0.95;0.91;61
+renard;0.85;0.90;0.87;413
+sangliers;0.93;0.88;0.90;104
+vehicule;0.95;0.98;0.97;500
+;;;;
+accuracy;;;0.85;2594
+macro avg;0.59;0.62;0.58;2594
+weighted avg;0.87;0.85;0.86;2594
