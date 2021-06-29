@@ -56,7 +56,7 @@ background-size: cover
 
 + I work on pred-prey relationships, interactions between species that drive large mammals communities. 
 
-+ We aim at understanding how the environment, pred and prey interact with each other. 
+<!-- + We aim at understanding how the environment, pred and prey interact with each other.  -->
 
 
 ---
@@ -67,7 +67,7 @@ background-size: cover
 <br><br><br><br><br><br><br><br><br><br>
 
 <li>Coll. A. Chaine, M. Kervellec, V. Miele, [OFB](https://ofb.gouv.fr/) and Ain/Jura hunting associations
-<li>Precious help from folks at [Montpellier Bioinformatics and Biodiversity (MBB)](https://mbb.univ-montp2.fr/MBB/index.php)
+<!-- <li>Precious help from folks at [Montpellier Bioinformatics and Biodiversity (MBB)](https://mbb.univ-montp2.fr/MBB/index.php) -->
 
 .footnote[
 `r icon::fa("camera")` [Peter Bucks](https://twitter.com/peterbucks)]
@@ -76,7 +76,7 @@ background-size: cover
 
 + This is joint work w/ Anna Chaine and Maëlis Kervellec, Vincent Miele, colleagues from the French Office for Biodiversity and game federations from Ain and Jura counties.  
 
-+ In passing, I would also like to thank colleagues from the Montpellier Bioinformatics Biodiversity platform who've been very helpful in using GPU machines.
+<!-- + In passing, I would also like to thank colleagues from the Montpellier Bioinformatics Biodiversity platform who've been very helpful in using GPU machines. -->
 
 ---
 class: left, top
@@ -127,22 +127,22 @@ Source: [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)]
 + The idea is to feed algo with pix as inputs, and get the species ID as outputs. 
 
 
----
-class: center, top
-background-image: url(img/imaginecology.png)
-background-size: contain 
-## <https://ecostat.gitlab.io/imaginecology/>
+<!-- --- -->
+<!-- class: center, top -->
+<!-- background-image: url(img/imaginecology.png) -->
+<!-- background-size: contain  -->
+<!-- ## <https://ecostat.gitlab.io/imaginecology/> -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
-#### Kuddos to [Vincent Miele](https://lbbe.univ-lyon1.fr/-Miele-Vincent-.html) and [Gaspard Dussert](https://www.linkedin.com/in/gaspard-dussert/?originalSubdomain=fr) !
+<!-- #### Kuddos to [Vincent Miele](https://lbbe.univ-lyon1.fr/-Miele-Vincent-.html) and [Gaspard Dussert](https://www.linkedin.com/in/gaspard-dussert/?originalSubdomain=fr) ! -->
 
 
-???
+<!-- ??? -->
 
-+ For my first steps in deep-learning, I used imaginecology a website we develop w/ our French group in Statistical Ecology. 
+<!-- + For my first steps in deep-learning, I used imaginecology a website we develop w/ our French group in Statistical Ecology.  -->
 
-+ Check it out, there is an intro to deep learning in video the one and only Vincent Miele, and several tutorials. 
+<!-- + Check it out, there is an intro to deep learning in video the one and only Vincent Miele, and several tutorials.  -->
 
 ---
 class: right, top
@@ -154,9 +154,9 @@ background-size: cover
 
 ???
 
-+ Going back to the lynx. 
+<!-- <!-- + Going back to the lynx.  --> -->
 
---
+<!-- -- -->
 
 I used the [Python/PyTorch fastai deep learning library](https://github.com/fastai/fastai)
 
@@ -459,24 +459,24 @@ background-size: cover
 
 + Easy to get lost in deep learning, and lose sight of the ecological question. If I can live with small bias on ecological indicators, better to stay on course, and go with not-too-perfect performances of the algo and save precious time in tagging. 
 
---
-+ Ongoing work: Accounting for both false negatives and false positives. 
+<!-- -- -->
+<!-- + Ongoing work: Accounting for both false negatives and false positives.  -->
 
-???
+<!-- ??? -->
 
-+ This being said, we can do better. I'm working on models with $>2$ species interactions, accounting for false positives and false negatives. 
+<!-- + This being said, we can do better. I'm working on models with $>2$ species interactions, accounting for false positives and false negatives.  -->
 
----
-background-color: white
+<!-- --- -->
+<!-- background-color: white -->
 
-### [Regards de la SFEE](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/)
-```{r echo = FALSE, out.width="95%"}
-knitr::include_graphics("img/sfee.png")
-```
+<!-- ### [Regards de la SFEE](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/) -->
+<!-- ```{r echo = FALSE, out.width="95%"} -->
+<!-- knitr::include_graphics("img/sfee.png") -->
+<!-- ``` -->
 
-???
+<!-- ??? -->
 
-Further reading. 
+<!-- Further reading.  -->
 
 
 ---
